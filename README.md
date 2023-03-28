@@ -18,3 +18,6 @@ The culprit tries to gain as much point as possible during the game. He also has
 This power can be gained possible only when culprit eats the special fruit.
 
 After this round, it's the vice versa, after two rounds, the player with the most points wins. 
+
+
+![Screenshot (24)](https://user-images.githubusercontent.com/66594633/228314211-adbc9763-f1ad-4549-b053-8515dfac4aa7.png)
